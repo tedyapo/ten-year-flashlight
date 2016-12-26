@@ -1,0 +1,52 @@
+Decade Flashlight Bill-of-Materials
+-----------------------------------
+
+PCB
+---
+
+(1) PCB - see design in repo, or order directly from OSH Park
+
+https://www.oshpark.com/shared_projects/0BWPH1JP
+
+The cost is $3.05 for 3 copies.
+
+
+Electrical Components
+---------------------
+
+(1) PIC12LF1571 8-SOIC DigiKey part # PIC12LF1571-I/SN-ND  $0.57 each
+(1) Bourns SRR6028-102Y 1mH inductor.  DigiKey part #  SRR6028-102YCT-ND  $0.68 each
+(1) 10uF 25V 1206 X7R MLCC capacitor.  DigiKey part # 1276-1804-1-ND $0.24 each
+(1) 0.1uF 25V 0805 X7R MLCC capacitor. DigiKey part # 311-1141-1-ND $0.10 each
+(1) 100 ohm 1206 resistor. DigiKey part #  311-100FRCT-ND $0.10 each
+(2) 22 ohm 0805 resistor. DigiKey part #  311-22.0CRCT-ND $0.10 each
+(1) ZXMN3B01FTA N-channel SOT23 MOSFET.  DigiKey part #  ZXMN3B01FCT-ND $0.52 each
+(1) AA Battery holder w/leads.  Digikey part # BC22AAW-ND $0.99 each
+(1) CHANZON 3W Cyan LED.  Find on AliExpress, Ebay, or Amazon.  $7.90 / 10.
+(2) Energizer L91 AA Ultimate Lithium cells. DigiKey Part #N602-ND $3.61 each.
+    Much cheaper elsewhere.
+
+Printed Parts
+-------------
+See OpenSCAD file for details
+
+(1) Lens holder
+(1) Front Bezel
+(1) Battery compartment cover
+(1) Case
+
+Optical Components
+------------------
+(1) lens to fit 3W LED
+
+I used a 20-degree angle lens for a tight beam.  30 degrees would also
+be appropriate.  These lenses are available on AliExpress, Ebay, and
+Amazon for about $2.50 for 10 pieces.  Beam angles range from 5 to 120 degrees
+
+Fasteners
+---------
+(6) #2-28 3/8" thread-rolling screws for plastic.  Available on Amazon here:
+
+https://www.amazon.com/Thread-Rolling-Plastic-Plated-Phillips/dp/B00GDXU8AA/ref=sr_1_9?s=industrial&ie=UTF8&qid=1482606359&sr=1-9&keywords=2-28+plastic+screw
+
+(1) Small piece of double-sided foam tape
