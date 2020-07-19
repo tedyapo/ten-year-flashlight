@@ -534,7 +534,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="PIC12LF1571" uservalue="yes">
+<deviceset name="PIC12LF1571">
 <gates>
 <gate name="G$1" symbol="PIC12LF1571" x="0" y="0"/>
 </gates>
